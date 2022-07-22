@@ -16,8 +16,8 @@
                     "type" : ""
                 },
                 {
-                    "name" : "COA Lab",
-                    "place" : "CL5 3rd Floor",
+                    "name" : "Graphics Lab",
+                    "place" : "CL7 Ground Floor",
                     "time" : "11am-12:55pm",
                     "type" : ""
                 },
@@ -26,18 +26,6 @@
                     "place" : "LT3 1st Floor",
                     "time" : "2pm-2:55pm",
                     "type" : ""
-                },
-                {
-                    "name" : "Data Comp Lab",
-                    "place" : "CL5 3rd Floor",
-                    "time" : "3pm-4:55am",
-                    "type" : "prof"
-                },
-                {
-                    "name" : "Data Science Lab",
-                    "place" : "CL5/CL6 3rd Floor",
-                    "time" : "3pm-4:55am",
-                    "type" : "prof"
                 },
                 {
                     "name" : "Cloud Lab",
@@ -63,18 +51,7 @@
                     "time" : "10am-10:55am",
                     "type" : ""
                 },
-                {
-                    "name" : "Data Comp Lecture",
-                    "place" : "CR4 Ground",
-                    "time" : "2pm-2:55pm",
-                    "type" : "prof"
-                },
-                {
-                    "name" : "Data Sci. Lecture",
-                    "place" : "CR5/CR6 1st Floor",
-                    "time" : "2pm-2:55pm",
-                    "type" : "prof"
-                },
+                
                 {
                     "name" : "Cloud Lecture",
                     "place" : "CR7/CR8 1st Floor",
@@ -98,12 +75,7 @@
                     "time" : "10am-10:55am",
                     "type" : ""
                 },
-                {
-                    "name" : "Graphics Lab",
-                    "place" : "CL7 Ground",
-                    "time" : "12pm-12:55pm",
-                    "type" : ""
-                },
+              
                 {
                     "name" : "AMS Lecture",
                     "place" : "LT3 1st Floor",
@@ -135,33 +107,9 @@
                 },
                 {
                     "name" : "Graphics Lab",
-                    "place" : "CL6 3rd Floor",
+                    "place" : "CL7 Ground Floor",
                     "time" : "11am-12:55pm",
                     "type" : ""
-                },
-                {
-                    "name" : "Data Comp Lecture",
-                    "place" : "CR4 Ground",
-                    "time" : "2pm-2:55pm",
-                    "type" : "prof"
-                },
-                {
-                    "name" : "Data Comp Lab",
-                    "place" : "CL5 3rd Floor",
-                    "time" : "3pm-4:55pm",
-                    "type" : "prof"
-                },
-                {
-                    "name" : "Data Sci. Lecture",
-                    "place" : "CR5/CR6 1st Floor",
-                    "time" : "2pm-2:55pm",
-                    "type" : "prof"
-                },
-                {
-                    "name" : "Data Sci. Lab",
-                    "place" : "CL4/CL6 3rd Floor",
-                    "time" : "3pm-4:55pm",
-                    "type" : "prof"
                 },
                 {
                     "name" : "Cloud Lecture",
@@ -193,6 +141,12 @@
                     "type" : ""
                 },
                 {
+                    "name" : "Multimidia",
+                    "place" : "CL5 3rd Floor",
+                    "time" : "11am-12:55pm",
+                    "type" : ""
+                },
+                {
                     "name" : "AMS Lecture",
                     "place" : "LT3 1st Floor",
                     "time" : "2pm-2:55pm",
@@ -219,12 +173,6 @@
                     "name" : "Graphics Lecture",
                     "place" : "LT3 1st Floor",
                     "time" : "10am-10:55am",
-                    "type" : ""
-                },
-                {
-                    "name" : "Graphics Lab",
-                    "place" : "CL7 Ground",
-                    "time" : "11am-12:55pm",
                     "type" : ""
                 }
             ]
